@@ -1,12 +1,21 @@
-## Hi there 👋
+## hippocommandus
 
-<!--
+The working MVP:
+- install
+- blabla
 
-**Here are some ideas to get you started:**
+Here what is upcoming:
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+1. Setup an authentification system 
+1.1 /GET /register
+1.2 /GET /login
+
+2. DNS & projects setup
+2.1 Setup app.hippocommandus.xyz to load a React app
+2.2 Setup api.hippocommandus.xyz to load a server (nodejs, laravel?) app
+
+3. commands.json saved on either (firebase, gist or github file) that can be updated without commit & deploy
+3.1. #11 
+3.2 brew commands
+
+4. Display on a dashboard the possible commands
