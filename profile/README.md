@@ -1,10 +1,11 @@
 ## hippocommandus
 
-The working MVP:
-- install
-- blabla
+### v0.3 is available
 
-Here what is upcoming:
+1. You can get started by following the steps here hippocommandus.xyz/get-started
+2. Use cases are covered here https://hippocommandus.xyz/use-case/
+
+### v4.x is coming soon
 
 1. Setup an authentification system 
 1.1 /GET /register
