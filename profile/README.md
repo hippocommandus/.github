@@ -7,16 +7,16 @@
 
 ### v4.x is coming soon
 
-1. Setup an authentification system 
-1.1 /GET /register
-1.2 /GET /login
+1. DNS & projects setup
+- - Setup app.hippocommandus.xyz to load a React app
+- - Setup api.hippocommandus.xyz to load a server (nodejs, laravel?) app
 
-2. DNS & projects setup
-2.1 Setup app.hippocommandus.xyz to load a React app
-2.2 Setup api.hippocommandus.xyz to load a server (nodejs, laravel?) app
+2. Setup an authentification system 
+- - /GET /register
+- - /GET /login
 
 3. commands.json saved on either (firebase, gist or github file) that can be updated without commit & deploy
-3.1. #11 
-3.2 brew commands
+- - Add net commands #11 https://github.com/hippocommandus/cli/issues/11
+- - brew commands
 
 4. Display on a dashboard the possible commands
