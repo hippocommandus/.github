@@ -20,3 +20,5 @@
 - - brew commands
 
 4. Display on a dashboard the possible commands
+
+5. Adding commands for SEO that are known 
